@@ -26,19 +26,18 @@
 ### 🛠️ Tech Stack & Toolbelt / 技术栈
 
 ```text
-Languages:     Swift / Python / JavaScript / TypeScript / Go / Java / Shell
-Ecosystem:     macOS Native (SwiftUI / AppKit), Cloud-Native (K8s, Docker), Electron
-AI & LLMs:     AI Agents (Claude Code, Codex, Antigravity), Prompt Cache Analysis, RAG, Ollama
+Languages:       Swift / Python / JavaScript / TypeScript / Go / Java / Shell
+Ecosystem:       macOS Native (SwiftUI / AppKit), Cloud-Native (K8s, Docker), Electron
+AI & LLMs:       AI Agents (Claude Code, Codex, Antigravity), Prompt Cache Analysis, RAG, Ollama
 Core Philosophy: 100% Local-First, Zero-Data-Leakage, Developer Experience
 ```
 
 ---
 
-### 📊 GitHub Activity / 活跃概览
+### 📊 GitHub Activity / 连续贡献卡片
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leeeway&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="leeway's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeeway&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=leeeway&theme=radical&hide_border=true&date_format=M%20j%5C%2C%20Y" alt="leeway's Contribution Streak" />
 </p>
 
 ---
